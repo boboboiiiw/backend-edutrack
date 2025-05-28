@@ -1,0 +1,3 @@
+[run]
+source = backend_edutrack
+omit = backend_edutrack/test*
